@@ -58,9 +58,6 @@ Estas tecnologías forman parte del diseño propuesto y no representan una imple
 │   ├── food.com/
 │   ├── wearables/
 │   └── LEEME.md
-├── src/
-│   └── inf3862/
-│       └── __init__.py
 ├── pyproject.toml
 └── uv.lock
 ```
